@@ -30,6 +30,6 @@ CUDA_VISIBLE_DEVICES=0 python evaluate_depth.py --data_path <your_data_path> --l
 
 ## Model Checkpoints
 
-Pretrained model weights are available at the following Google Drive link:
+The model checkpoints used to reproduce the results reported in the paper are available at the following Google Drive link:
 
-[Google Drive Link](https://drive.google.com/file/d/1nGtdylHEK0nuYnABy81URXZkdnnVxQGT/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1nGtdylHEK0nuYnABy81URXZkdnnVxQGT/view?usp=sharing)
