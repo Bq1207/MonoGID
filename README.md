@@ -14,6 +14,8 @@ Please follow the dataset preparation procedure used in [AF-SfMLearner](https://
 
 ## Usage
 
+Download pretrained model from: [depth_anything_vitb14](https://drive.google.com/file/d/1e9Hmy2PjE1EBu-W44zJ5CfbrA-xH5gQt/view?usp=sharing). Create a folder named `pretrained_model` in this repo and place the downloaded model in it.
+
 ### Evaluation
 
 Before evaluation, export the ground-truth depth and pose:
