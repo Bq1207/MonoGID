@@ -18,7 +18,7 @@ Download pretrained model from: [depth_anything_vitb14](https://drive.google.com
 
 ### Evaluation
 
-Before evaluation, export the ground-truth depth and pose:
+Before evaluation, export the ground-truth depth:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python export_gt_depth.py --data_path <your_data_path> --split endovis
